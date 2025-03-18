@@ -10,5 +10,6 @@
 </ol>
 <p><b>Since I gave myself limited amount of time such as 30 mins I had to implement most important 2 functions such as Add and Show items in the 'todo' Table as fast as possible.
 Thus application might seem it is half completed.</b></p>
+<br>
 
 <img style="vertical-align: middle;" src="MySQLToDoApp.png" alt="In App Screenshot">
